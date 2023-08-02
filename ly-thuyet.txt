@@ -1,0 +1,13 @@
+- Why nodejs?
+  nodejs là môi trường, platform chạy js bên phía server
+  nodejs không phải ngôn ngữ
+
+- Set up
+nodejs, chrome, git, vscode
+
+- Client/ Server?
+  khi truy cập trang web, hành động gì đó web sẽ gửi request lên server => sau đó server trả về kết quả response giao diện, html/css/js ...
+  localhost
+
+- NPM
+  Quản lí các thư viện js đang sử dụng

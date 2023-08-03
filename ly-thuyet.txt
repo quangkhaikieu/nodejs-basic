@@ -11,3 +11,12 @@ nodejs, chrome, git, vscode
 
 - NPM
   Quản lí các thư viện js đang sử dụng
+
+- Express App
+
+- View Engines
+ ejs
+ install babel  để biên dịch code js mới 
+ nodemon để restart App
+ viewEngine là nơi viết code giao diện html của web App
+ config cách render 1 cách dễ dàng, tất cả render từ views/...
